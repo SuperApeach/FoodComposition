@@ -1,0 +1,17 @@
+C:\Users\임수현\source\repos\Food\Food\bin\Debug\Food.exe.config
+C:\Users\임수현\source\repos\Food\Food\bin\Debug\Food.exe
+C:\Users\임수현\source\repos\Food\Food\bin\Debug\Food.pdb
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.Form1.resources
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.csproj.CoreCompileInputs.cache
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.exe
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.pdb
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+C:\Users\임수현\source\repos\Food\Food\bin\Debug\Food.exe.manifest
+C:\Users\임수현\source\repos\Food\Food\bin\Debug\Food.application
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.TrustInfo.xml
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.exe.manifest
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.application
+C:\Users\임수현\source\repos\Food\Food\obj\Debug\Food.AddDataForm.resources
